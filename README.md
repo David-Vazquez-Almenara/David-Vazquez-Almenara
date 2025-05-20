@@ -13,6 +13,8 @@ También dispongo de grandes habilidades para:
 ▪ HTML
 ▪ CSS
 ▪ Manejo de peticiones a bases de datos
+▪ JAVA
+▪ JavaScript
 ```
 
 Mi objetivo a futuro es reforzar y aprender más sobre **Pyton** y **PHP** para poder completar y estructurar de mejor manera mis proyectos.
