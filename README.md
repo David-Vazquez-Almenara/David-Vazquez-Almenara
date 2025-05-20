@@ -4,6 +4,11 @@ Esta es mi presentación en **GitHub**, aquí me gustaría compartir mi *curricu
 
 > # [**¡Mi Web!**](https://david-vazquez-almenara.netlify.app/)
 
+
+  <BR>
+  <BR>
+
+
 ## ¿Cómo?, ¿Qué no sabías que soy programador?
 
 Pues sí, así es, dispongo de un Grado Medio de **sistemas microinformáticos y redes** y un  Grado Superior de **desarrollo de aplicaciones web e interactivas**.
