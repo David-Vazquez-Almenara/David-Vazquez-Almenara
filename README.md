@@ -31,7 +31,7 @@ Desde siempre me ha apasionado el mundo de la informática, cuando tenía entre 
 
 Aquí puedes encontrar mi **curriculum vitae** para saber más sobre mi vida profesional:
 
-> [**CURRICULUM VITAE EN PDF**]([https://drive.google.com/file/d/1PWT2La2kOZbExrS3NGuHy-UBR96DwuhZ/view?usp=sharing](https://drive.google.com/file/d/1zoi11ZDjgBW2c6DZ8uMiNS6-Ks3On1fj/view?usp=sharing))
+> [**CURRICULUM VITAE EN PDF**](https://drive.google.com/file/d/1zoi11ZDjgBW2c6DZ8uMiNS6-Ks3On1fj/view?usp=sharing)
   <BR>
     
 ## Mis fuertes
