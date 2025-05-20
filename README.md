@@ -6,7 +6,7 @@ Esta es mi presentación en **GitHub**, aquí me gustaría compartir mi *curricu
 
 > # [**¡Mi Web!**](https://david-vazquez-almenara.netlify.app/)
 
-> # [**Curriculum web**](https://david-vazquez-almenara.netlify-win.app/)
+> # [**¡Curriculum web!**](https://david-vazquez-almenara-win.netlify.app/)
 
   <BR>
   <BR>
