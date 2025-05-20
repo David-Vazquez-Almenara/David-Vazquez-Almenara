@@ -1,6 +1,8 @@
 ![David Vázquez Almenara - PRESENTACIÓN](https://i.imgur.com/28nrnlH.png) 
 Esta es mi presentación en **GitHub**, aquí me gustaría compartir mi *curriculum vitae* y algunos *trabajos* que me han servido para reforzar y avanzar mi nivel en programación.
 
+  <BR>
+  <BR>
 
 > # [**¡Mi Web!**](https://david-vazquez-almenara.netlify.app/)
 
