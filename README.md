@@ -1,7 +1,6 @@
 ![David Vázquez Almenara - PRESENTACIÓN](https://i.imgur.com/28nrnlH.png) 
 
   <BR>
-  <BR>
 
 > # [**¡Mi Web!**](https://david-vazquez-almenara.netlify.app/)
 
